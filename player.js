@@ -1,4 +1,4 @@
-function newPlayableCharacter(x, y) {
+function player(x, y) {
     const element = newImage('assets/New Piskel.png')
     element.style.zIndex = 1;
 
