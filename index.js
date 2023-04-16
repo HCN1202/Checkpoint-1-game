@@ -1,1 +1,1 @@
-const pc = player
+const pc = player(100, 110)
