@@ -1,4 +1,4 @@
-function walk(element) {
+function move(element) {
     element.style.position = 'fixed'
 
     function moveToCoordinates(left, bottom) {
